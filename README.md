@@ -8,9 +8,13 @@ Develop a predictive model that classifies customers as likely to churn or not, 
 
 customer-churn-prediction/
 ├── churn_model.ipynb          # Jupyter notebook with data analysis and model training
+
 ├── data.csv                   # Dataset containing customer information
+
 ├── customer_churn_model.pkl   # Serialized trained model
+
 ├── encoders.pkl               # Serialized label encoders for categorical variables
+
 # 🛠️ Tools & Libraries
 Python
 
