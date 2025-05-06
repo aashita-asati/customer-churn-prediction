@@ -6,7 +6,6 @@ Develop a predictive model that classifies customers as likely to churn or not, 
 
 # 📁 Project Structure
 
-customer-churn-prediction/
 ├── churn_model.ipynb          # Jupyter notebook with data analysis and model training
 
 ├── data.csv                   # Dataset containing customer information
